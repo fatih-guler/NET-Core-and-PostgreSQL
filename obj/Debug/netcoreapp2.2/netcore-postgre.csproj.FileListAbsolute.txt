@@ -1,0 +1,11 @@
+/home/developer/Desktop/NETCore/netcore-postgre/bin/Debug/netcoreapp2.2/netcore-postgre.deps.json
+/home/developer/Desktop/NETCore/netcore-postgre/bin/Debug/netcoreapp2.2/netcore-postgre.runtimeconfig.json
+/home/developer/Desktop/NETCore/netcore-postgre/bin/Debug/netcoreapp2.2/netcore-postgre.runtimeconfig.dev.json
+/home/developer/Desktop/NETCore/netcore-postgre/bin/Debug/netcoreapp2.2/netcore-postgre.dll
+/home/developer/Desktop/NETCore/netcore-postgre/bin/Debug/netcoreapp2.2/netcore-postgre.pdb
+/home/developer/Desktop/NETCore/netcore-postgre/obj/Debug/netcoreapp2.2/netcore-postgre.csprojAssemblyReference.cache
+/home/developer/Desktop/NETCore/netcore-postgre/obj/Debug/netcoreapp2.2/netcore-postgre.csproj.CoreCompileInputs.cache
+/home/developer/Desktop/NETCore/netcore-postgre/obj/Debug/netcoreapp2.2/netcore-postgre.AssemblyInfoInputs.cache
+/home/developer/Desktop/NETCore/netcore-postgre/obj/Debug/netcoreapp2.2/netcore-postgre.AssemblyInfo.cs
+/home/developer/Desktop/NETCore/netcore-postgre/obj/Debug/netcoreapp2.2/netcore-postgre.dll
+/home/developer/Desktop/NETCore/netcore-postgre/obj/Debug/netcoreapp2.2/netcore-postgre.pdb
